@@ -2,3 +2,4 @@
  Time Series Project
 
  
+![Alt text](image.png)
